@@ -1,5 +1,5 @@
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
-<img src="https://camo.githubusercontent.com/9a2e0a84b5fe8fc6ecc08966789a729db720bc8fb9135ee766378d81b03fdcd4/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4954686a416c4a6e4439574e4f2f67697068792e676966" width="30px">
+<img src="https://camo.githubusercontent.com/9a2e0a84b5fe8fc6ecc08966789a729db720bc8fb9135ee766378d81b03fdcd4/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4954686a416c4a6e4439574e4f2f67697068792e676966" width= width=50% >
 
 You have finally discovered my Github profile. <br>
 Please feel free to clone projects and raise issues if you think something could be better.
