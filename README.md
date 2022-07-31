@@ -1,14 +1,5 @@
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
- <div align="center">
-<img src="https://i.imgur.com/8MupZHY.gif" width="400px" />
-<br>
-#### You can find me on:
-<br>
-<br>
-<br>
-<img src="https://github-readme-stats.vercel.app/api?username=soroushchehresa&show_icons=true" />
-<br>
-<br>
+
 You have finally discovered my Github profile. <br>
 Please feel free to clone projects and raise issues if you think something could be better.
 
