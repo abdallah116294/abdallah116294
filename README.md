@@ -17,7 +17,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/abdallha-mohamed-b66926209" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdallha-mohamed-b66926209" height="30" width="40" /></a>
-<a href="https://fb.com/abdallha mohamed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdallha mohamed" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100007919535068" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdallha mohamed" height="30" width="40" /></a>
 <a href="https://instagram.com/abdallah116_mohamed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abdallah116_mohamed" height="30" width="40" /></a>
 </p>
 
