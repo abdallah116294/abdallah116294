@@ -1,6 +1,37 @@
 
-<h1 align="center">Hi 👋, I'm abdullah mohamed</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=50&color=00ADFF&center=true&vCenter=true&width=1000&height=200&lines=log(%22Welcome+To+My+GITHUB%22))](https://git.io/typing-svg)
+<h1 align="center">Hi 👋, I'm Abdullah mohamed</h1>
 <h3 align="center">I am software Engineer</h3>
+<h3>
+  I study 
+computer science, With over 2
+years of experience in mobile app 
+development and expertise in the Flutter 
+framework, I am confident that I
+would be a valuable addition to your 
+team, throughout my career, I have 
+worked on various mobile app projects 
+and have gained a strong
+understanding of the development 
+lifecycle. My experience includes 
+developing high-performance and
+scalable mobile apps using the Flutter 
+framework. I have also developed custom 
+plugins and integrations
+with various third-party APIs. My 
+experience in Flutter includes building 
+user interfaces, creating responsive 
+layouts
+I have a deep understanding of Dart 
+programming language and have
+experience with other related 
+technologies such as Firebase,
+I am excited to get this job
+Thank you for considering my application
+I look forward to discussing my 
+qualifications further
+</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdallah116294&label=Profile%20views&color=0e75b6&style=flat" alt="abdallah116294" /> </p>
 
