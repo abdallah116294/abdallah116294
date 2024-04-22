@@ -41,9 +41,9 @@ qualifications further
 
 - 💬 Ask me about **Flutter,Dart,C++,java**
 
-- 📫 How to reach me **https://abdallah116294.github.io/abdallah_mohamed/?fbclid=IwAR1u36dLZYxfnNTsKDoCgwnlPztKwm5lI6j2jmKdWv2i8DSBUMGU8MZHyoM**
+- 📫 How to reach me **https://abdallhamohamed2.netlify.app/**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1su1DdrDrTSWzArhrC4fDcuOaEdZHKMCd/view?usp=sharing](https://drive.google.com/file/d/1su1DdrDrTSWzArhrC4fDcuOaEdZHKMCd/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/10CB6xkLzGgItKSzyVUlxFL9cqnedMSb9/view](https://drive.google.com/file/d/10CB6xkLzGgItKSzyVUlxFL9cqnedMSb9/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
