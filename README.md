@@ -4,7 +4,7 @@
 <h3 align="center">I am software Engineer</h3>
 <h3>
   I study 
-computer science, With over 2
+computer science, With over 1
 years of experience in mobile app 
 development and expertise in the Flutter 
 framework, I am confident that I
